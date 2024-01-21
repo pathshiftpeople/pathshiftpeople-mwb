@@ -1,7 +1,7 @@
 <nav class="navbar is-fixed-top is-info" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item" href="/">
-      <div class="is-size-3 is-uppercase has-text-weight-light">{{wiki_title}}</div>
+      <div class="is-size-3 has-text-weight-light">{{wiki_title}}</div>
     </a>
 
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic">
@@ -17,13 +17,6 @@
 	<div class="buttons">
 	  <a class="button is-primary" href="/">
 	    <strong>Home</strong>
-	  </a>
-	  <a class="button is-light" href="/all-pages.html">
-	    All Pages
-	  </a>
-	  {% if lunr_posts_sitepath != '' %}
-	  <a class="button is-light" onclick="location.href=lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link">
-	    Random Page
 	  </a>
 	  {% endif %}
 	  {% if lunr_index_sitepath != '' %}
