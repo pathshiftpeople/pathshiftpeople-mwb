@@ -1,5 +1,7 @@
 # Path Shift People
 
-## Coming Soon
+Visit the [Path Shift People store](https://store.pathshiftpeople.com/)
 
-For more information: <mailto:support@pathshiftpeople.com>
+More coming soon!
+
+For more information: [support@pathshiftpeople.com](mailto:support@pathshiftpeople.com)
