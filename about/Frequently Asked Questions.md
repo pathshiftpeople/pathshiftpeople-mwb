@@ -41,10 +41,8 @@ Most courses are composed of materials which you can take in your own time, inte
 
 In all cases, just talk to your course leader.
 
-
 ## Do you offer bundles?
-Yes, but not yet.  
-However, if you buy a course now we'll give you a discount on future courses, so you will effectively be getting a bundle.
+Yes, but not yet.  However, if you buy a course now we'll give you a discount on future courses, so you will effectively be getting a bundle.
 
 ## Can I purchase a gift course or bundle for a friend?
 
@@ -55,7 +53,7 @@ Not yet, but we are working on it. Please contact us and we will set it up for y
 See [[ML Follow our journey 2024]].
 
 
-## How do I add my products and services to the PSP catalogue? Then what happens?
+## How do I add *my* products and services to the PSP catalogue? Then what happens?
 
 Our current model is that we will help you:
 * figure out how to package your expertise so that it complements the rest of our catalogue
@@ -64,10 +62,8 @@ Our current model is that we will help you:
 
 You might also be able to contribute as a guest - for example, to an existing product, our Substack or (planned) podcast.
 
-As we point out in [[ML About PSP (2024)]], we are developing PSP with the garage door up, so this model will almost certainly evolve. There are therefore no complex forms to fill in: reach out and contact us (below), and let us know what you think you may have to offer.
+We are developing PSP with the garage door up, so this model will almost certainly evolve. There are therefore no complex forms to fill in: reach out and contact us (below), and let us know what you think you may have to offer.
 
 ## How do I contact you?
-If you are taking a course you can reach out to the teacher via the community as well as during any online workshops and webinars.  
-For all other questions, please email support@pathshiftpeople.com.
+If you are taking a course you can reach out to the teacher via the community as well as during any online workshops and webinars.  For all other questions, please email support@pathshiftpeople.com.
 
-[[new home page]]

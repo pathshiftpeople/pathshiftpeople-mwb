@@ -1,10 +1,14 @@
+# Personal productivity
+
 **Whatever your personal productivity routine and toolkit, these courses will help you improve them.**
 
 No prior knowledge or technical knowhow is required, and we offer a 30-day full refund, no questions asked.
-
 ## Personal Productivity Framework
 
-The Personal Productivity Framework helps you design a personal productivity system that meets *your* unique needs, rather than training you in someone else's. And it ensures that the resulting system saves you more time than you actually spend developing and refining the system.
+The Personal Productivity Framework does two things:
+
+* helps you design a personal productivity system that meets *your* unique needs, rather than training you in someone else's. 
+* ensures the resulting system saves you more time than you actually spend developing it.
 
 No prior knowledge is required, and the course is **technology-agnostic.** However we will show you the specific tools we use to illustrate the general principles of the framework, and you can always quiz us about them if you take the "Q&A" version.
 
