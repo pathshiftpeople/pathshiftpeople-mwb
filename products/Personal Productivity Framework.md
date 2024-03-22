@@ -14,7 +14,7 @@ There are two versions of this course:
 * **Version 1**: an on-demand series of videos setting out the basic personal productivity framework. 
 * **Version 2**: the same content as version 1, above, but with a Q&A session with one of us, held twice a week at EU- and US-friendly times.
 
-**Coming soon on Gumroad.**
+**Coming soon on Gumroad: [add to your wishlist](https://pathshiftpeople.gumroad.com/l/productivity-framework).**
 
 These courses are also excellent preparation for our more advanced productivity courses, and so give you **discounts for:** 
 
