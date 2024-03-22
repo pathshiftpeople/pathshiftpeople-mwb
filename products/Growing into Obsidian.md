@@ -1,5 +1,7 @@
 # Growing into Obsidian
 
+![[obsidian-logo.jpg]]
+
 Obsidian is freemium software for personal knowledge management. While simple to use, the huge number of plug-ins developed by its dynamic developer community means it "squares the circle": being both user-friendly and easy to learn, *and* as powerful as you could possibly want.
 
 Obisidian users organise their knowledge in "Vaults", so in the first few video, Pete and Mathew will introduce two or more "Starter Vaults" which subscribers can download and open with Obsidian so they can get started quickly.
