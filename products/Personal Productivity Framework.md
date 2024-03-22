@@ -1,5 +1,7 @@
 # Personal Productivity Framework
 
+![[productivity-pyramid.jpg]]
+
 The Personal Productivity Framework does two things:
 
 * helps you design a personal productivity system that meets *your* unique needs, rather than training you in someone else's. 
@@ -16,7 +18,7 @@ There are two versions of this course:
 
 These courses are also excellent preparation for our more advanced productivity courses, and so give you **discounts for:** 
 
-* I[[Boost your personal productivity with AI]]
+* [[Boost your personal productivity with AI]]
 * [[Growing into Obsidian]]
 * Smarter, Faster, Better With ChatGPT
 
