@@ -1,6 +1,6 @@
 # Growing into Obsidian
 
-![[obsidian-logo.jpg]]
+![[obsidian-logo-4.jpg]]
 
 Obsidian is freemium software for personal knowledge management. While simple to use, the huge number of plug-ins developed by its dynamic developer community means it "squares the circle": being both user-friendly and easy to learn, *and* as powerful as you could possibly want.
 
