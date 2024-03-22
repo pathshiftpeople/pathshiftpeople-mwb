@@ -1,3 +1,4 @@
+# Our team
 ## Peter Kaminski
 Peter Kaminski is a seasoned tech entrepreneur and consultant. His portfolio includes technical cofounding of five innovative Internet firms, including enterprise wiki solution provider Socialtext and Ethernet wide-area network service provider Yipes Communications. Leveraging his Silicon Valley experience, Kaminski offers unique perspectives on product and service development as well as operations management. Previous experience as a video game designer augments his approach to product development and user experience design.  
   

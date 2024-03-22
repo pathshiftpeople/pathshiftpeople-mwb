@@ -1,4 +1,4 @@
-# Communication strategy
+# Communication strategy course
 
 **If you've ever been tasked with the development of your organisation's communication strategy and been bewildered and perplexed by the sheer variety of tactics out there, the Communications Strategy Framework is for you.**
 

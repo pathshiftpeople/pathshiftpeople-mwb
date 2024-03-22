@@ -1,4 +1,4 @@
-
+# Frequently asked questions
 ## What is PathShiftPeople?
 
 **We set up PathShiftPeople so all of us can help all of us navigate the shifts ahead.**
@@ -50,8 +50,7 @@ Not yet, but we are working on it. Please contact us and we will set it up for y
 
 ## Do you have a newsletter? Where can I follow you?
 
-See [[ML Follow our journey 2024]].
-
+??
 
 ## How do I add *my* products and services to the PSP catalogue? Then what happens?
 

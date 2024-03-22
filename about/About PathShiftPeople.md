@@ -1,4 +1,3 @@
-an image
 # About PathShiftPeople
 
 **Path Shift People is a small community of experts focused on helping companies and individuals grow and thrive in our changing world.**
