@@ -5,7 +5,7 @@ Building on the above Personal Productivity Framework, this course helps you int
 No prior knowledge of personal productivity systems or any AI tool is required. There are two versions of this course:
 
 - those familiar with personal productivity techniques and tools should take **version 1**
-- **version 2** *combines* version 1, above, with _free_ access to version 1 of our Personal Productivity Framework course, which sets out a "baseline" What, Why and How of personal productivity systems
+- **version 2** *combines* version 1, above, with _free_ access to version 1 of our [[Personal Productivity Framework]] course, which sets out a "baseline" What, Why and How of personal productivity systems.
 
 While the course is technology-agnostic, we're using our own productivity systems and ChatGPT to provide examples, so there'll be plenty of opportunities to pick up new tools and tips.
 
